@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mani/Desktop/mlops/datascienceproject/mlruns/0/94f1a0de959d44f389b16b76f71c7bd1/artifacts
+end_time: 1730833940408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94f1a0de959d44f389b16b76f71c7bd1
+run_name: thundering-snail-938
+run_uuid: 94f1a0de959d44f389b16b76f71c7bd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730833938161
+status: 3
+tags: []
+user_id: mani
